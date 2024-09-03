@@ -1,0 +1,25 @@
+table, tr, th, td {
+    border: solid 1px;
+    border-collapse: collapse;
+}
+summary {
+    margin-top: 40px;
+}
+.table1 {
+    margin-top: 40px;
+}
+ol {
+    list-style-type: upper-roman;
+}
+ul {
+    list-style-type: circle;
+}
+summary {list-style-type: square;}
+input {
+    margin: 10px;
+}
+.img1 {
+    width: 400px;
+    height: 400px;
+    margin: 60px;
+}
