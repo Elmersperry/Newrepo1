@@ -25,4 +25,11 @@ input {
 }
 select {
     margin: 10px 10px;
+    color: crimson;
+}
+.option123 {
+    color: blue;
+}
+h3 {
+    margin: 40px 10px;
 }
