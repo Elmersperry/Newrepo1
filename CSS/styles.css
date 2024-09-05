@@ -33,3 +33,7 @@ select {
 h3 {
     margin: 40px 10px;
 }
+span {
+    color: rgb(253, 2, 2);
+    font: bold;
+}
